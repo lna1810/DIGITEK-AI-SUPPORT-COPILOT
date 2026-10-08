@@ -281,9 +281,9 @@ The demonstration covers:
 - Google Sheets case logging
 - AI Control Center dashboard
 
-### ▶ Watch the Demo
+### Watch the Demo
 
-**[Open Demo Recording](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE)**
+**[Open Demo Recording]([PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE](https://drive.google.com/file/d/1P7sInXbU-IiMsEDjpyrbZCHoKv-JcTlN/view))**
 
 ---
 
