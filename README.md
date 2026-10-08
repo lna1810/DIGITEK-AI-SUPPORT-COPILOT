@@ -8,7 +8,7 @@ Built for the **Digitek AI Implementation & Automation Intern Assessment**.
 
 ---
 
-## 🚀 PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 The **Digitek AI Support Copilot** is an AI-powered customer support automation that receives customer emails, classifies requests, extracts important information, detects urgency, logs cases, and routes requests to the appropriate response path.
 
@@ -16,7 +16,7 @@ Cases requiring live information, human judgement, or additional verification ar
 
 ---
 
-# 🧠 PART 1 — AI SUPPORT AUTOMATION
+# PART 1 — AI SUPPORT AUTOMATION
 
 ### Workflow
 
@@ -66,7 +66,7 @@ The workflow was tested using six customer scenarios covering:
 
 ---
 
-# 🛡️ HUMAN-IN-THE-LOOP DESIGN
+# HUMAN-IN-THE-LOOP DESIGN
 
 The automation does not blindly answer every customer request.
 
@@ -86,7 +86,7 @@ Examples include:
 
 ---
 
-# 📊 GOOGLE SHEETS SUPPORT HUB
+# GOOGLE SHEETS SUPPORT HUB
 
 Every processed case is logged with:
 
@@ -110,7 +110,7 @@ The **AI Control Center** provides a dashboard for viewing support activity, cat
 
 ---
 
-# 🎨 PART 2 — DIGITEK REFUND FLOW
+# PART 2 — DIGITEK REFUND FLOW
 
 ## AI-Powered Returns & Refund Automation
 
@@ -177,7 +177,7 @@ Refund / Replacement Decision
 
 ---
 
-# ⚙️ TOOLS USED
+# TOOLS USED
 
 | Tool | Purpose |
 |---|---|
@@ -189,7 +189,7 @@ Refund / Replacement Decision
 
 ---
 
-# 📈 BENEFITS
+# BENEFITS
 
 The proposed automation is designed to:
 
@@ -230,7 +230,7 @@ At an illustrative volume of 100 cases/day:
 
 ---
 
-# 🛡️ AUTOMATION WITH GUARDRAILS
+# AUTOMATION WITH GUARDRAILS
 
 The system follows four principles:
 
@@ -266,7 +266,7 @@ The AI should not invent:
 
 ---
 
-# 🎥 DEMO
+# DEMO
 
 ### Digitek AI Support Copilot — Part 1 Demo
 
@@ -287,7 +287,7 @@ The demonstration covers:
 
 ---
 
-# 📁 REPOSITORY STRUCTURE
+# REPOSITORY STRUCTURE
 
 ```text
 DIGITEK AI SUPPORT COPILOT
@@ -323,7 +323,7 @@ DIGITEK AI SUPPORT COPILOT
 
 ---
 
-# 🔐 SECURITY & PRIVACY
+# SECURITY & PRIVACY
 
 The repository should not contain:
 
@@ -339,7 +339,7 @@ The repository is intended to remain **private unless public access is specifica
 
 ---
 
-# 🎯 PROJECT OUTCOME
+# PROJECT OUTCOME
 
 The completed solution demonstrates how AI and workflow automation can reduce repetitive customer-support work while keeping humans in control of important decisions.
 
@@ -357,7 +357,7 @@ This creates a support workflow that is:
 
 ---
 
-# 👩‍💻 PROJECT INFORMATION
+# PROJECT INFORMATION
 
 **Assessment:** Digitek AI Implementation & Automation Intern Assessment
 
@@ -371,7 +371,7 @@ This creates a support workflow that is:
 
 ---
 
-## ⭐ FINAL PRINCIPLE
+## FINAL PRINCIPLE
 
 > **AI prepares the case. Humans make the decisions.**
    ↓
